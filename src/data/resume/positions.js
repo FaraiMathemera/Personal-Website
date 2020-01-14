@@ -1,52 +1,39 @@
 
 const positions = [
   {
-    company: 'University of Cape Town, Chemical Engineering Department',
-    position: 'Teaching assistant: Research communication and methodology',
-    link: 'http://www.chemeng.uct.ac.za/',
-    daterange: 'January 2018 - Present',
+    company: 'Zaio',
+    position: 'Back End Developer',
+    link: 'https://www.zaio.io/',
+    daterange: 'August 2019 - Present',
     points: [
-      'Provide academic and administrative support for a postgraduate course that introduces new postgraduate students to good research practices such as the scientific method, critical thinking and science communication.',
+      'Working on a multitude of small project in the Start-up space with a focus on MVPs (Most Viable Products). Responsible for the integration of front-end elements built by the front-end team with back end/server-side logic that I was tasked with developing.',
     ],
   }, {
-    company: 'University of Cape Town, Chemical Engineering Department',
-    position: 'Ad hoc assistant lecturer: Separation processes, Mass transfer ',
-    link: 'http://www.chemeng.uct.ac.za/',
-    daterange: 'January 2016 – June 2018',
+    company: 'Self-Employed',
+    position: 'Developer ',
+    link: 'http://www.faraimathemera.com/',
+    daterange: 'January 2018 – Present',
     points: [
-      'Lecture a ‘Boot Camp’ to undergraduate students who have performed poorly in the course and are then given an opportunity to consolidate the material over an intensive 4-day programme, before retaking the exam.',
-      'Two of the five classes I have worked with have achieved a pass rate of over 90%, and the rest have had a pass rate above 80%. ',
-      'Structure course and deliver lectures',
-      'Prepare worksheets and give support to students working on them',
-      'Evaluate student progress and give detailed and timeous feedback',
+      'I have been creating simple solutions for SMEs. My solutions have been simple web applications and websites that manage customer engagement and data increasing the operation efficiency and visibility of the organisations. My clients have come from different sectors including NGO’s and logistic providers.',
     ],
   }, {
-    company: 'University of Cape Town',
-    position: 'Consultant: Undergraduate 2nd year project design',
-    link: 'http://www.chemeng.uct.ac.za/',
-    daterange: 'February 2018',
+    company: 'Mudanga',
+    position: 'Consultant: Incubator Program',
+    link: 'http://www.mudanga.com/',
+    daterange: 'September 2017 - December 2017',
     points: [
-      'Contributed to designing an anaerobic digestion project for the undergraduate curriculum. ',
-      'The project is critical because it is the first undergraduate project that places chemical engineering in a small-scale informal setting in South Africa.',
+      'I consulted on work at the MTN Incubator that Mudanga was selected to be part of. We implemented Google Design Sprint methodologies into the current business processes. Multidisciplinary processes were re-engineered in order to improve the operational efficiency and help increase business growth, these included marketing, UI design, logistics and legal. In a 90 day window we managed to increase sales by 20% but most importantly improve the users experience and foster more engagement with the platform.',
     ],
   }, {
-    company: 'University of Cape Town, Chemical Engineering Department',
-    position: 'Head teaching assistant: various courses',
-    link: 'http://www.chemeng.uct.ac.za/',
-    daterange: '2013-2015',
+    company: 'Zimnat Asset Management',
+    position: 'Information Technology Intern',
+    link: 'http://www.zimnat.co.zw/',
+    daterange: 'April 2016-January 2017',
     points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
+      'Zimnat Asset Management (associated with the Sanlam Group), has been ranked as the 2nd best performing asset manager in Zimbabwe. As an intern my role was to facilitate the smooth running of systems (hardware & software) across multiple departments to gain a holistic view of the relationship between technology and people, in the asset management space.',
+      'Maintenance and updating of Customer Relationship Management (CRM) module of company’s system was a key responsibility. Technical support for all system users, systems such as Sage and bespoke suites which were vital to operations. I ensured integrity of client data to comply with industry regulations of which I oversaw an increase of over 100% of compliance. Risk management and acquisitions were also areas I was tasked with assisting with.',
     ],
-  }, {
-    company: 'University of Cape Town, Hydrometallurgy Research Department',
-    position: 'Intern',
-    link: 'http://www.chemeng.uct.ac.za/',
-    daterange: 'December 2010 – February 2011',
-    points: [
-      'Conducted a feasibility study on a model sulphide heap bioleach reactor. ',
-    ],
-  },  
+  },
 ];
 
 export default positions;

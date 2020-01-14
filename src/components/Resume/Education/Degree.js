@@ -5,7 +5,7 @@ const Degree = ({ data }) => (
   <article className="degree-container">
     <header>
       <h3 className="degree">{data.degree}</h3>
-      <p className="description">{data.description}</p>
+      <ul className="description">{data.description}</ul>
       <p className="school"><a href={data.link}>{data.school}</a>, {data.year}</p>
     </header>
   </article>

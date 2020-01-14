@@ -1,22 +1,17 @@
 const degrees = [
   {
     school: 'University of Cape Town',
-    degree: 'Ph. D in Chemical Engineering specialising in Bioprocess Engineering',
-    description: 'Dissertation: Reactor selection for biodegradation of thiocyanate and cyanide based on microbial community characteristics. A lab scale project to design a process and reactor system for bioremediation of wastewater containing cyanide and thiocyanate from gold mining. Study emphasises using the characteristics of the microbial community responsible for bioremediation to inform choices on reactor design and operation.',
-    link: 'http://ceber.uct.ac.za',
+    degree: 'BSc Computer Science and Business Computing',
+    description: '',
+    link: 'https://www.cs.uct.ac.za/',
     year: 2020,
   }, {
     school: 'University of Cape Town',
-    degree: 'MSc Engineering in Chemical Engineering specialising in Bioprocess Engineering',
-    description:'Developed and analysed performance of a venturi-aerated reactor with the aim to reduce energy consumption in bioreactors, focusing mainly on Mass Transfer and Reactor Design principles.',
-    link: 'http://ceber.uct.ac.za',
-    year: 2015,
-  }, {
-    school: 'University of Cape Town',
-    degree: 'BSc Engineering in Chemical Engineering',
-    link: 'https://uct.ac.za',
-    year: 2012,
-  },
+    degree: 'Certificate, ES (Enterprise Systems) Fundamentals with SAP',
+    description:'This course provides a general overview of Enterprise Systems (ES) using SAP ERP software. The course consists of a core curriculum comprising SAP Navigation together with the Procure-to-Pay, Sales-to-Cash and Inventory Management business processes. Included were a number of theoretical and practical issues concerning business processes and their mapping into an enterprise system, identifying and matching real-life business processes into ES business processes was also part of the curriculum.',
+    link: 'http://www.esefa.uct.ac.za/',
+    year: 2014,
+  }
 ];
 
 export default degrees;

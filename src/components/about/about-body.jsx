@@ -30,11 +30,10 @@ export default class AboutBody extends React.PureComponent {
     return (
       <div className='pt-content-card__body pt-content-card__body__about flex flex-full-center'>
         <div className='pt-content-card__body__about__presentation flex flex-dc flex-full-center'>
-          <img src={`./assets/${this.props.profile.avatarPath}`} alt={`${this.props.profile.fullName}'s Image`} />
-          <h1 className='ta-c'>{linebreakToBr(about.title)}</h1>
+
           <Education data={degrees} />
           <Experience data={positions} />
-          <Volunteer data={volunteers} />
+          
           <References />
         </div>
       </div>
