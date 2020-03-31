@@ -5,8 +5,8 @@ General utils
 // Cursor pointer
 .pointer { cursor: pointer; }
 
-/* 
- * Flexbox utils 
+/*
+ * Flexbox utils
  */
 
 .flex { display: flex; }
@@ -14,8 +14,8 @@ General utils
 // Flex direction
 .flex-dc { flex-direction: column; }
 
-.flex-full-center { 
-    justify-content: center; 
+.flex-full-center {
+    justify-content: center;
     align-items: center;
 }
 
@@ -31,7 +31,7 @@ General utils
 // Justify space around
 .flex-sa { justify-content: space-around; }
 
-/* 
+/*
  * Text align
  */
 .ta-c { text-align: center; }

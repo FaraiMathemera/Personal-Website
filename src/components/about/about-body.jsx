@@ -33,7 +33,6 @@ export default class AboutBody extends React.PureComponent {
 
           <Education data={degrees} />
           <Experience data={positions} />
-          
           <References />
         </div>
       </div>

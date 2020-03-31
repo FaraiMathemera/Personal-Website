@@ -6,7 +6,7 @@ const positions = [
     link: 'https://www.zaio.io/',
     daterange: 'August 2019 - Present',
     points: [
-      'Back End Developer working on (MOst Viable Products) MVPs for startups.',
+      'Back End Developer working on (Most Viable Products) MVPs for startups.',
     ],
   }, {
     company: 'Independant Contractor',
