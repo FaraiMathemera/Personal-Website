@@ -39,27 +39,27 @@ const profile = {
 const projects = [
   {
     title: 'Personal Website (fadzaikadzinga.co.za)',
-    img: '',
+    img: '../assets/FadzaiK.png',
     description: 'Personal website of PhD candidate looking to put herself out there and showcase herself.',
     categories: ['Website', 'NodeJS', 'React'],
     siteUrl: 'fadzaikadzinga.co.za',
-    sourceCodeUrl: 'github.com/user/project'
+    sourceCodeUrl: 'github.com/FaraiMathemera/project'
   },
   {
-    title: 'Personal Website (faraimathemera.co.za)',
-    img: 'https://www.nethruster.com/assets/img/icons/apple-touch-icon.png',
-    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
+    title: 'faraimathemera.co.za',
+    img: '../assets/icons/favicon.ico',
+    description: 'My personal website with projects I have done.',
     categories: ['Website', 'NodeJS', 'React'],
     siteUrl: 'faraimathemera.co.za',
-    sourceCodeUrl: 'github.com/user/project'
+    sourceCodeUrl: 'github.com/FaraiMathemera/project'
   },
   {
     title: 'I Do Foundation (NGO)',
-    img: 'https://www.nethruster.com/assets/img/wareader.svg',
+    img: '',
     description: 'NGO providing the community with education and support services.',
     categories: ['JS', 'Website'],
     siteUrl: 'idofoundation.co.za',
-    sourceCodeUrl: 'github.com/user/:O'
+    sourceCodeUrl: 'github.com/FaraiMathemera/:O'
   }
 ]
 
